@@ -125,7 +125,7 @@ def debug(n):
         #Here we draw the detected circle but with a radius decreased by args.sub. In the getvals.py script, the pixels inside this circle will be counted rather than the original detected circle.
         cv2.circle(orig, center = (circles[0,i,0], circles[0,i,1]), radius = (circles[0,i,2] - args.sub), color = (255, 0, 255), thickness = 5)
 
-    #height and width are the height and width of img.=
+    #height and width are the height and width of img.
     height, width = img.shape[:2]
 
     #We loop over the specified number of rows.
