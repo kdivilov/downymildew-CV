@@ -3,5 +3,5 @@ The computer vision scripts in this repository have been used to quantify downy 
 
 If you have any questions about the scripts, feel free to open an issue on the repository.
 
-![](https://raw.githubusercontent.com/kdivilov/downymildew-CV/addall/gif/RH.gif)
-![](https://raw.githubusercontent.com/kdivilov/downymildew-CV/addall/gif/HC.gif)
+![](https://raw.githubusercontent.com/kdivilov/downymildew-CV/master/gif/RH.gif)
+![](https://raw.githubusercontent.com/kdivilov/downymildew-CV/master/gif/HC.gif)
